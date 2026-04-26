@@ -1,0 +1,1 @@
+python src/test.py --data_dir data/EuroSAT_RGB --model_path results/best_model.npz --hidden_dim 256 --activation relu

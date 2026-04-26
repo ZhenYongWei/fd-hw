@@ -1,0 +1,1 @@
+python src/train.py --data_dir data/EuroSAT_RGB --hidden_dim 256 --activation relu --lr 0.01 --l2_lambda 0.001 --epochs 50
