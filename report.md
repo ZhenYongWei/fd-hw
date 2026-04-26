@@ -1,6 +1,6 @@
 ---
 title: "HW1: 从零开始构建三层神经网络分类器 —— EuroSAT 地表覆盖图像分类"
-author: "空间智能课程"
+author: "魏振勇（25110980039）"
 date: "2026年4月"
 ---
 
@@ -268,7 +268,8 @@ W = W - lr * v
 5. **改进方向**：采用 CNN 架构保留空间信息、增加图像分辨率、使用数据增强等策略有望显著提升分类性能。
 
 # 附录：代码结构
-
+代码链接：https://github.com/ZhenYongWei/fd-hw.git 
+模型权重：https://drive.google.com/file/d/1PktOCzTnlBeHWHTxJsYq49WH9jkDuHN9/view?usp=sharing
 ```
 src/
 ├── data_loader.py        # 数据加载与预处理
